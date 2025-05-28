@@ -163,4 +163,4 @@ Pull Request gönderin
 Bu proje eğitim amacıyla hazırlanmıştır. Herhangi bir ticari amaçla kullanımı geliştiricilerin iznine tabidir.
 
 
-# FIGMA LİNKİ: https://www.figma.com/design/GsbqPzIJokafsndA8pKYHy/WatchlyProje?m=auto&t=6aqJIFlX2LggVYhJ-6
+## FIGMA LİNKİ: https://www.figma.com/design/GsbqPzIJokafsndA8pKYHy/WatchlyProje?m=auto&t=6aqJIFlX2LggVYhJ-6
