@@ -21,7 +21,9 @@ Watchly, kullanıcıların dizi ve film izleme alışkanlıklarını yönetmeler
 🧩 Quiz Özellikleri: İzlenen içerikler hakkında mini testler
 
 👤 Rol Bazlı Kullanım
+
 👥 Kullanıcı
+
 Kayıt Olma ve Giriş
 
 Favorilere Ekleme
@@ -38,7 +40,9 @@ Maraton Başlatma
 
 Profil Özelleştirme
 
+
 🎬 Film Sahibi
+
 Yeni Dizi/Film Ekleme
 
 İçerik Yönetimi ve Güncelleme
@@ -49,7 +53,9 @@ Kullanıcı Yorumlarını Görüntüleme
 
 Profil Görünümü Özelleştirme
 
+
 🛠️ Sistem Yöneticisi
+
 İçerik Onaylama ve Düzenleme
 
 Yorum Denetimi
@@ -59,18 +65,23 @@ Yorum Denetimi
 Geri Bildirim Analizi
 
 📱 Platform
+
 Mobil Uygulama (iOS)
 
 Figma Tasarımı: Watchly Figma Tasarımı
 
+
 📄 Kullanım Senaryoları (Use Case Diagramı)
+
 Kullanıcı yorum yapar → Yönetici onaylar
 
 Film Sahibi içerik ekler → Yönetici onaylar
 
 Kullanıcı kayıt/giriş yapar → Yönetici içerik yönetimini sağlar
 
+
 🧩 Fonksiyonel Gereksinimler
+
 Kayıt ve Giriş Sistemi
 
 İçerik Arama ve Filtreleme
@@ -90,6 +101,7 @@ Arkadaşlık Sistemi
 Öneri Sistemi
 
 🔒 Fonksiyonel Olmayan Gereksinimler
+
 Anında Yanıt Verme (< 2 saniye)
 
 1 milyon kullanıcıyı destekleyebilecek altyapı
@@ -103,9 +115,6 @@ Yetkisiz erişimlere karşı koruma
 Kullanıcı dostu arayüz (erişilebilirlik standartlarına uygun)
 
 📁 Proje Yapısı
-plaintext
-Kopyala
-Düzenle
 Watchly/
 ├── assets/
 ├── components/
@@ -116,18 +125,25 @@ Watchly/
 ├── README.md
 └── package.json
 🔧 Kurulum
+
 Bu projeyi klonlayın:
 
 git clone https://github.com/kullaniciadi/watchly.git
+
 cd watchly
+
 Gerekli bağımlılıkları yükleyin:
 
 npm install
+
 Uygulamayı başlatın:
+
 npm run ios
+
 Not: Bu proje iOS cihazlar içindir. Android için destek planlanmamıştır.
 
 ✨ Katkıda Bulunmak
+
 Katkıda bulunmak için:
 
 Fork'layın 🍴
@@ -143,6 +159,7 @@ Pull Request gönderin
 
 
 📜 Lisans
+
 Bu proje eğitim amacıyla hazırlanmıştır. Herhangi bir ticari amaçla kullanımı geliştiricilerin iznine tabidir.
 
 
