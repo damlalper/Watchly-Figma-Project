@@ -2,6 +2,7 @@
 Watchly, kullanıcıların dizi ve film izleme alışkanlıklarını yönetmelerini ve daha verimli hale getirmelerini sağlayan bir mobil uygulamadır. iOS platformunda çalışmak üzere tasarlanmıştır ve kullanıcıların izleme sürelerini takip etmelerine, içeriklere yorum yapmalarına, ödüller kazanmalarına olanak tanır.
 
 🚀 Özellikler
+
 🎞️ İzleme Süresi Takibi: Günlük, haftalık ve aylık detaylı istatistikler
 
 ⭐ Favori Listesi: Dizi ve filmleri favorilere ekleme
@@ -21,6 +22,12 @@ Watchly, kullanıcıların dizi ve film izleme alışkanlıklarını yönetmeler
 🧩 Quiz Özellikleri: İzlenen içerikler hakkında mini testler
 
 👤 Rol Bazlı Kullanım
+
+
+
+
+
+
 
 👥 Kullanıcı
 
